@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MendozaC25
-- 👀 I’m interested in Applied Economics, Data science and Research
+- 👀 I’m interested in Applied Economics, Data science and Financial Markets Researcher
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me ...
